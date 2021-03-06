@@ -10,4 +10,4 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/Siddhartt)
-<a href="https://discord.gg/wzF9qfC"><img src="https://img.shields.io/discord/664194615817142302.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a><br>
+<a href="https://discord.gg/wzF9qfC"><img src="https://img.shields.io/discord/664194615817142302.svg?style=flat&label=Join%20Arctic%20Studio&color=7289DA" alt="Join Community Badge"/></a><br>
