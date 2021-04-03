@@ -2,7 +2,7 @@
 * 16 Years old. 
 * Country: Netherlands.
 * Natural love for Sloths 🦥!
-* Currently learning React.js and Flutter.
+* Currently learning JAMstack and Vue.js.
 * Developer of [some Discord bots](https://top.gg/user/288392976495935498).
 * Owner of [Arctic Studio](https://www.arcticstudio.info).
 
