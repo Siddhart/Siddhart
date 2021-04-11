@@ -1,7 +1,7 @@
 # Hey, I'm Siddhart 👋
 * 16 Years old. 
 * Country: Netherlands.
-* Natural love for Sloths 🦥!
+* Natural love for Sloths 🦥
 * Currently learning JAMstack and Vue.js.
 * Developer of [some Discord bots](https://top.gg/user/288392976495935498).
 * Owner of [Arctic Studio](https://www.arcticstudio.info).
