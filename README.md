@@ -2,11 +2,11 @@
 * 16 Years old. 
 * Country: Netherlands.
 * Natural love for Sloths 🦥
-* Currently learning JAMstack, Vue.js and Nuxt.js.
-* Developer of [some Discord bots](https://top.gg/user/288392976495935498).
 * Owner of [Arctic Studio](https://www.arcticstudio.info).
+* Developer of [some Discord bots](https://top.gg/user/288392976495935498).
+* Currently learning JAMstack, Vue.js and Nuxt.js.
 
-💬 [Ask me anything](https://siddhart.dev/)
+💬 [Visit my website](https://siddhart.dev/)
 
 
 ![Profile views](https://gpvc.arturio.dev/Siddhartt)
