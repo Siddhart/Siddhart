@@ -4,7 +4,7 @@
 * Natural love for Sloths 🦥
 * Owner of [Arctic Studio](https://www.arcticstudio.info).
 * Developer of [some Discord bots](https://top.gg/user/288392976495935498).
-* Currently learning JAMstack, Vue.js and Nuxt.js.
+* Currently learning React and Nuxt.js.
 
 💬 [Visit my website](https://siddhart.dev/)
 
