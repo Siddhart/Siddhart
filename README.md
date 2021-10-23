@@ -4,7 +4,7 @@
 * Natural love for Sloths 🦥
 * Owner of [Arctic Studio](https://www.arcticstudio.info).
 * Developer of [some Discord bots](https://top.gg/user/288392976495935498).
-* Currently learning [JAM stack](https://jamstack.org/) and [Next.js](https://nextjs.org/).
+* Currently learning [JAM stack](https://jamstack.org/), [Next.js](https://nextjs.org/) and [React.js](https://reactjs.org/).
 * Interested in NFT's.
 
 💬 [Visit my website](https://siddhart.dev/)
