@@ -1,6 +1,6 @@
-# Hey, I'm Siddhart 👋
+# Hey, I'm Sidd 👋
 * 17 Years old. 
-* Country: Netherlands.
+* From the Netherlands.
 * Natural love for Sloths 🦥
 * Owner of [Arctic Studio](https://www.arcticstudio.info).
 * Developer of [some Discord bots](https://top.gg/user/288392976495935498).
