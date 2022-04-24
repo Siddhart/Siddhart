@@ -1,10 +1,9 @@
 # Hey, I'm Sidd 👋
-* 17 Years old. 
-* From the Netherlands.
+* 17 Years old
+* From the Netherlands
 * Natural love for Sloths 🦥
-* Owner of [Arctic Studio](https://www.arcticstudio.info).
-* Developer of [some Discord bots](https://top.gg/user/288392976495935498).
-* Currently learning [JAM stack](https://jamstack.org/), [Next.js](https://nextjs.org/) and [React.js](https://reactjs.org/).
+* Developer of [some Discord bots](https://top.gg/user/288392976495935498)
+* Currently learning [JAM stack](https://jamstack.org/), [Next.js](https://nextjs.org/) and [React.js](https://reactjs.org/)
 
 💬 [Visit my website](https://siddhart.dev/)
 
