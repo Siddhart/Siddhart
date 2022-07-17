@@ -1,5 +1,5 @@
 # Hey, I'm Sidd 👋
-* 17 Years old
+* 18 Years old
 * From the Netherlands
 * Natural love for Sloths 🦥
 * Developer of [some Discord bots](https://top.gg/user/288392976495935498)
