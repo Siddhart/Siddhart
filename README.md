@@ -1,5 +1,5 @@
 # Hey, I'm Sidd 👋
-* 19 Years old
+* 20 Years old
 * From the Netherlands
 * Really likes Sloths 🦥
 * Currently learning [JAM stack](https://jamstack.org/), [Next.js](https://nextjs.org/) and [React.js](https://reactjs.org/)
